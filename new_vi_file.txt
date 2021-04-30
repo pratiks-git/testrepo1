@@ -1,0 +1,2 @@
+This is my first vi file in the git tutorial. 
+Also this is the first file I am going to commit in this branch.
