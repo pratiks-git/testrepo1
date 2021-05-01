@@ -5,4 +5,4 @@ Okay, so lets add some food from my local repo.
 
 Adding new feature to my meals.
 
-Yet another feature dish added to my meals.
+Yet another feature dish added to my lunch-master.
